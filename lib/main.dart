@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:bmnav/bmnav.dart' as bmnav;
-import 'package:tugas_2/screens/account_screen.dart';
+import 'package:tugas_2/screens/accounts_screen.dart';
 import 'package:tugas_2/screens/analytics_screen.dart';
 import 'package:tugas_2/screens/more_screen.dart';
 import 'package:tugas_2/screens/feed_screen.dart';
