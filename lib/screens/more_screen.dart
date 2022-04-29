@@ -37,7 +37,7 @@ class MoreState extends State<MoreScreen> {
                         Icons.settings,
                         color: Colors.black,
                       ),
-                      padding: EdgeInsets.only(left: 450),
+                      padding: EdgeInsets.only(left: 250),
                       onPressed: () {
                         // do something
                       },
