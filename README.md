@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+# Screenshot
+
+<img src="https://telegra.ph/file/08c64ca9f26e75cf8a91e.jpg" width="200">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
